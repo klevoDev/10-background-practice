@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
 
+
 .wrapper {}
 
 
@@ -13,14 +14,19 @@ body {
 }
 
 
+
 .container {
     max-width: 800px;
     margin: 0 auto;
+    padding: 0 15px;
+    box-sizing: content-box;
 }
 
 .case {
     max-width: 750px;
     margin: 0 auto;
+    padding: 0 15px;
+    box-sizing: content-box;
 }
 
 
@@ -185,4 +191,22 @@ body {
     height: 100%;
 
     object-fit: cover;
+}
+
+
+
+.footer {
+    padding: 30px 0;
+}
+
+.footer-copy {
+    border-top: 1px dashed #0EBFFA;
+    padding-top: 3px;
+
+    font-family: 'Nunito', sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #FFFFFF;
 }
