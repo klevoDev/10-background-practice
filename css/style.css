@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+
+.wrapper {}
+
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+
+
+.header {
+    background-color: #057BA3;
+
+    padding: 9px 0;
+}
+
+.header__logo {
+    font-family: 'Oswald', Times;
+
+    font-size: 25px;
+    line-height: 130%;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #0EBCFA;
+}
+
+
+
+.page {}
+
+.page__start {}
+
+.start {}
