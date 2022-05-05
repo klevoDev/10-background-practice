@@ -69,8 +69,6 @@ body {
 
 
 .header {
-    background-color: #057BA3;
-
     padding: 9px 0;
 }
 
@@ -134,7 +132,7 @@ body {
 
 .advantages__list {
     font-size: 14px;
-    line-height: 24px;
+    line-height: 171%;
 }
 
 .advantages__item {
@@ -199,13 +197,13 @@ body {
     padding: 30px 0;
 }
 
-.footer-copy {
+.footer__copy {
     border-top: 1px dashed #0EBFFA;
     padding-top: 3px;
 
     font-family: 'Nunito', sans-serif;
     font-size: 12px;
-    line-height: 14px;
+    line-height: 117%;
     text-align: center;
 
     color: #FFFFFF;
